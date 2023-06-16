@@ -1,0 +1,1 @@
+ls > playlist.m3u
