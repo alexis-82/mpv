@@ -1,1 +1,1 @@
-dir /b > playlist.m3u
+dir/s/b > playlist.m3u
