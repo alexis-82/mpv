@@ -1,0 +1,15 @@
+Copied all the mpv stuff to the "C:\Program Files\mpv" folder
+
+Run the installer as admin
+
+Open up the "System Environment Variables"
+
+Click "Environment Variables"
+
+The bottom half is all System environment variables. That's what we want.
+
+Find "Path" in the list and hit "Edit"
+
+Add "C:\Program Files\mpv" to the list and hit Ok on all the windows
+
+If this was done correctly, cmd will be able to call mpv when you type "mpv" and hit enter
